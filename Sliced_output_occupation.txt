@@ -1,0 +1,93 @@
+Performance metrics for occupation
+----------
+----------
+ Adm-clerical
+Precision: 0.9376299376299376
+Recall: 0.8895463510848126
+fbeta: 0.9129554655870445
+Accuracy: 0.9771883289124669
+----------
+ Exec-managerial
+Precision: 0.9516859587317564
+Recall: 0.9608739837398373
+fbeta: 0.9562579013906447
+Accuracy: 0.9574520413182489
+----------
+ Handlers-cleaners
+Precision: 0.9577464788732394
+Recall: 0.7906976744186046
+fbeta: 0.8662420382165605
+Accuracy: 0.9846715328467154
+----------
+ Prof-specialty
+Precision: 0.9562162162162162
+Recall: 0.9515868746637978
+fbeta: 0.9538959288217848
+Accuracy: 0.9586956521739131
+----------
+ Other-service
+Precision: 0.9747899159663865
+Recall: 0.8467153284671532
+fbeta: 0.90625
+Accuracy: 0.9927162367223066
+----------
+ Sales
+Precision: 0.9521785334750266
+Recall: 0.9114954221770092
+fbeta: 0.9313929313929314
+Accuracy: 0.9638356164383561
+----------
+ Craft-repair
+Precision: 0.9499417927823051
+Recall: 0.8783638320775027
+fbeta: 0.912751677852349
+Accuracy: 0.9619419370578189
+----------
+ Transport-moving
+Precision: 0.9614035087719298
+Recall: 0.85625
+fbeta: 0.9057851239669421
+Accuracy: 0.9643080776455855
+----------
+ Farming-fishing
+Precision: 0.9801980198019802
+Recall: 0.8608695652173913
+fbeta: 0.9166666666666667
+Accuracy: 0.9818913480885312
+----------
+ Machine-op-inspct
+Precision: 0.9439655172413793
+Recall: 0.876
+fbeta: 0.9087136929460581
+Accuracy: 0.978021978021978
+----------
+ Tech-support
+Precision: 0.9714285714285714
+Recall: 0.9611307420494699
+fbeta: 0.9662522202486679
+Accuracy: 0.9795258620689655
+----------
+ ?
+Precision: 0.9488636363636364
+Recall: 0.8743455497382199
+fbeta: 0.9100817438692097
+Accuracy: 0.9820944112859469
+----------
+ Protective-serv
+Precision: 0.9565217391304348
+Recall: 0.9383886255924171
+fbeta: 0.9473684210526316
+Accuracy: 0.9661016949152542
+----------
+ Armed-Forces
+Precision: 1.0
+Recall: 1.0
+fbeta: 1.0
+Accuracy: 1.0
+----------
+ Priv-house-serv
+Precision: 1.0
+Recall: 1.0
+fbeta: 1.0
+Accuracy: 1.0
+----------

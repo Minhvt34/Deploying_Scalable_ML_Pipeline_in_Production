@@ -1,0 +1,36 @@
+main:
+  project_name:  Deploying a Machine Learning Model on Heroku with FastAPI
+  experiment_name: development
+  steps: all
+
+data:
+  cat_features : [
+      "workclass",
+      "education",
+      "marital-status",
+      "occupation",
+      "relationship",
+      "race",
+      "sex",
+      "native-country",
+  ]
+infer:
+  update_keys:
+    [
+      ["marital-status","marital_status"],
+      ["hours-per-week","hoursPerWeek"],
+      ["native-country","nativeCountry"]
+    ]
+  columns:
+    [ 'age',
+      'workclass',
+      'fnlgt',
+      'education',
+      'marital-status',
+      'occupation',
+      'relationship',
+      'race',
+      'sex',
+      'hours-per-week',
+      'native-country'
+    ]
